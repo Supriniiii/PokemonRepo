@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2185ef30-6d8e-4f36-b154-e0bfb1586131" name="Changes" comment="spring boot project, create, update, get,getAll,Delete">
+      <change afterPath="$PROJECT_DIR$/UserService1/src/main/java/com/tradingsystem/UserService1/DTO/Userdetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UserService1/src/main/java/com/tradingsystem/UserService1/Model/Trader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UserService1/src/main/java/com/tradingsystem/UserService1/signUp/Controller/Signupcontroller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UserService1/src/main/java/com/tradingsystem/UserService1/signUp/Service/TraderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tradingSytem/userServiceApi/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tradingSytem/userServiceApi/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tradingSytem/userServiceApi/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tradingSytem/userServiceApi/.idea/userServiceApi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tradingSytem/userServiceApi/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSEProgrammerApp" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSEProgrammerApp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSEProgrammerApp/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSEProgrammerApp/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSEProgrammerApp/Class2.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSEProgrammerApp/Class2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSEProgrammerApp/Lesson6.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSEProgrammerApp/Lesson6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSEProgrammerApp/project1/CalculatorApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSEProgrammerApp/project1/CalculatorApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSEProgrammerApp/project1/Class1.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSEProgrammerApp/project1/Class1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSEProgrammerApp/project1/Lesson11.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSEProgrammerApp/project1/Lesson11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSEProgrammerApp/project1/Lesson12BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSEProgrammerApp/project1/Lesson12BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSEProgrammerApp/project1/Lesson13MultiDimensionalArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSEProgrammerApp/project1/Lesson13MultiDimensionalArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSEProgrammerApp/project1/Lesson3.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSEProgrammerApp/project1/Lesson3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSEProgrammerApp/project1/Lesson4.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSEProgrammerApp/project1/Lesson4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSEProgrammerApp/project1/Lesson5.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSEProgrammerApp/project1/Lesson5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSEProgrammerApp/project1/Lesson7.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSEProgrammerApp/project1/Lesson7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSEProgrammerApp/project1/Lesson8.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSEProgrammerApp/project1/Lesson8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSEProgrammerApp/project1/Lesson9.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSEProgrammerApp/project1/Lesson9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSEProgrammerApp/project1/lesson10.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSEProgrammerApp/project1/lesson10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSEProgrammerApp/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSEProgrammerApp/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserService1" beforeDir="false" afterPath="$PROJECT_DIR$/UserService1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserService1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UserService1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserService1/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/UserService1/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tradingSytem/userServiceApi" beforeDir="false" afterPath="$PROJECT_DIR$/tradingSytem/userServiceApi" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$/JavaSEProgrammerApp" source="origin/main" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Supriniiii&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/PoliteSibuyi/service1.git&quot;,
+    &quot;accountId&quot;: &quot;ffd2d97a-6584-4565-a1a3-8b4f70cb2a8d&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2rykejncWBLqIDu8zmI7TRn8oyf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ApiApplication.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "final",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/user_g4l/OneDrive - Geeks4learning/GEEKS4LEARNING/Teddy Smith/api",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "show.migrate.to.gradle.popup": "false"
+  },
+  "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
+    ]
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Pokemon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Pokemon" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2185ef30-6d8e-4f36-b154-e0bfb1586131" name="Changes" comment="" />
+      <created>1737538799189</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737538799189</updated>
+    </task>
+    <task id="LOCAL-00001" summary="spring boot project, create, update, get,getAll,Delete">
+      <option name="closed" value="true" />
+      <created>1737958942331</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1737958942331</updated>
+    </task>
+    <task id="LOCAL-00002" summary="spring boot project, create, update, get,getAll,Delete">
+      <option name="closed" value="true" />
+      <created>1737960684832</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1737960684832</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit&#10;spring boot project, create, update, get,getAll,Delete&#10; login controller package&#10;Initial commit" />
+    <MESSAGE value="spring boot project, create, update, get,getAll,Delete" />
+    <option name="LAST_COMMIT_MESSAGE" value="spring boot project, create, update, get,getAll,Delete" />
+  </component>
+</project>
